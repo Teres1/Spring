@@ -1,7 +1,7 @@
 package com.example.mydemo.controllers;
 
 import org.springframework.web.bind.annotation.*;
-import slavi.example.demo.models.Student;
+import com.example.mydemo.models.Student;
 
 import java.util.ArrayList;
 import java.util.List;
